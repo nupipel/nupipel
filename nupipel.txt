@@ -1,7 +1,8 @@
 Bismillah
 
-- no 1
-- no 2
-- no 3
-- no 4
+- Belajar GITHUB
+- Belajar Code Igniter
+- Belajar Laravel
+- Belajar ---
 - no 5
+- no 6
