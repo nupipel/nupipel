@@ -3,6 +3,6 @@ Bismillah
 - Belajar GITHUB
 - Belajar Code Igniter
 - Belajar Laravel
-- Belajar ---
 - no 5
 - no 6
+- oke
